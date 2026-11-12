@@ -13,7 +13,8 @@ LOCATION = "westus"
 VM_NAME = "pipeline-vm"
 VM_SIZE = "Standard_B2ps_v2"
 
-REPO_URL = "https://github.com/Shikhar-55/ephemeral_data_pipeline.git"
+# REPO_URL = "https://github.com/Shikhar-55/ephemeral_data_pipeline.git"
+REPO_URL = "https://github.com/jefferson-lund/ephemeral_data_pipeline.git"
 REPO_SUBDIR = "test_pipeline"          # folder inside the repo that has main.py
 
 
